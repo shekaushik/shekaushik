@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shekaushik67" target="blank"><img src="https://img.shields.io/twitter/follow/shekaushik67?logo=twitter&style=for-the-badge" alt="shekaushik67" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://shekaushik.github.io/](https://shekaushik.github.io/)
 
